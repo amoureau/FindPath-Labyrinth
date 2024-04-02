@@ -1,0 +1,13 @@
+--- READ ME ---
+Pour lancer le programme, aller dans le dossier 'src' qui contient le code source et les données (fichiers images, csv, etc.) nécessaires à son exécution.
+
+Ensuite, simplement lancer le fichier 'main.py' dans spyder ou VS Code (testé sous python 3.9.6 sur linux et Windows 10)
+
+Le fichier 'const.py' contient quelques constantes du programme qui peuvent être modifiées (taille de la grille, des cases, de la fenêtre...).
+
+Le dossier 'labyrinthes' contient des images 'labyrintheX.jpg' de labyrinthes pré-faits et leur fichier 'matriceX.csv' correspondant. 
+
+Dans le dossier du prjet, on trouve aussi la vidéo de démo, le cahier des charges, le découpage fonctionnel, l'explication détaillée d'une fonction et la répartition des points du groupe.
+
+--Auteurs--
+Guillaume LAROSE, Paul DE CASTERAS, Adrien BERGEZ-LACOSTE, Alexandre MOUREAU
